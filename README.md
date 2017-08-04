@@ -19,9 +19,13 @@ generic.
 
 ## Usage
 `git clone https://github.com/abemassry/react-native-starter.git`
+
 `cd react-native-starter`
+
 `npm install`
+
 `npm install -g react-native`
+
 `react-native run-ios`
 
 ## Prerequisites (which I'm using at the time of writing)
